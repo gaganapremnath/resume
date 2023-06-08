@@ -24,7 +24,8 @@
 
 #### 👩🏻‍💻 &nbsp; Professional Exposure :
 
-⦿ Working as Angular Intern at Greif Inc. <br>
+⦿ Have 4.5 years of experinece in Front and backend technologies. <br>
+⦿ Working as Angular Intern at Greif Inc - May 2023 to present. <br>
 ⦿ Worked as Technology Analyst at Infosys, India - 2021 to 2022.<br>
 ⦿ Worked as Senior Software Engineer at NTT DATA FA Insuarance Systems, India - 2018 to 2021.<br>
 
