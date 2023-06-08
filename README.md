@@ -15,29 +15,31 @@
 
 <p> Hey there! I'm a rockstar full stack developer who can handle everything from HTML and CSS to JavaScript and Python. I've got the skills to build awesome websites and web apps that look great on any device, and I'm all about making them accessible and super user-friendly. Believe it or not, I didn't always love computers and coding, but once I cracked the code (pun intended), I was hooked! It's like being a magician of the digital world, creating amazing things and making life better for everyone. I'm stoked to be part of this generation of creators shaping the future. Let's keep on coding and making the world a better place, one line of code at a time! 🚀 </p>
 
+<div>
 #### 🎓 &nbsp; Education :
 
-⦿ MS in CS Graduate Student at Syracuse University, New York - 2022 to 2024.
-⦿ Completed BE in Computer Sceince from Sri Jayachamarajendra College of Engineering, India - 2013 to 2017.
+⦿ MS in CS Graduate Student at Syracuse University, New York - 2022 to 2024.<br>
+⦿ Completed BE in Computer Sceince from Sri Jayachamarajendra College of Engineering, India - 2013 to 2017.<br>
 
 #### 👩🏻‍💻 &nbsp; Professional Exposure :
 
-⦿ Working as Angular Intern at Greif Inc.
-⦿ Worked as Technology Analyst at Infosys, India - 2021 to 2022.
-⦿ Worked as Senior Software Engineer at NTT DATA FA Insuarance Systems, India - 2018 to 2021.
+⦿ Working as Angular Intern at Greif Inc. <br>
+⦿ Worked as Technology Analyst at Infosys, India - 2021 to 2022.<br>
+⦿ Worked as Senior Software Engineer at NTT DATA FA Insuarance Systems, India - 2018 to 2021.<br>
 
+</div>
 #### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/> <br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/><br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/><br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/><br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/><br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/><br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/><br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/><br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/><br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/><br>
+  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"><br>
 </div>
