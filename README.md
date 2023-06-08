@@ -16,6 +16,7 @@
 <p> Hey there! I'm a rockstar full stack developer who can handle everything from HTML and CSS to JavaScript and Python. I've got the skills to build awesome websites and web apps that look great on any device, and I'm all about making them accessible and super user-friendly. Believe it or not, I didn't always love computers and coding, but once I cracked the code (pun intended), I was hooked! It's like being a magician of the digital world, creating amazing things and making life better for everyone. I'm stoked to be part of this generation of creators shaping the future. Let's keep on coding and making the world a better place, one line of code at a time! 🚀 </p>
 
 <div>
+
 #### 🎓 &nbsp; Education :
 
 ⦿ MS in CS Graduate Student at Syracuse University, New York - 2022 to 2024.<br>
@@ -28,12 +29,13 @@
 ⦿ Worked as Senior Software Engineer at NTT DATA FA Insuarance Systems, India - 2018 to 2021.<br>
 
 </div>
+
 #### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/> <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/><br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/><br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/> <span> Java </span><br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/> <span> React </span> <br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/> <span> Angular and its frameworks - Angular Material, PrimeNG </span> <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/><br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/><br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/><br>
