@@ -1,6 +1,6 @@
 <div id="header" align="center" mt-3>
   <img src="https://media.giphy.com/media/tkEaYA3Kd5WtyXtLqu/giphy.gif?cid=ecf05e47zgtb7g2k9wyzs8bhgc9x4ldsroota3e7lwtq7yy9&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
-  <img src="../fig1.png" width="100%">
+  <img src="fig1.png" width="100%">
   <div id="badges">
     <a href="https://www.linkedin.com/in/gagana-premnath-60227695/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
