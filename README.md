@@ -1,1 +1,3 @@
-<iframe src="https://giphy.com/embed/tkEaYA3Kd5WtyXtLqu" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/IntoAction-day-diegodrawsart-women-and-girls-in-science-tkEaYA3Kd5WtyXtLqu">via GIPHY</a></p>
+<div id="header" align="center">
+    <iframe src="https://giphy.com/embed/tkEaYA3Kd5WtyXtLqu" width="100" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</div>
